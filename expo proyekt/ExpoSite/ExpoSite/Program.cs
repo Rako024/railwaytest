@@ -12,6 +12,7 @@ using Expo.Data.Repositories.Abstracts;
 using Expo.Data.Repositories.Concretes;
 using FluentValidation.AspNetCore;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.DataProtection;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -85,6 +86,13 @@ namespace ExpoSite
             builder.Services.AddAutoMapper(typeof(OrderMapProfiles));
             builder.Services.AddAutoMapper(typeof(WishlistMapProfiles));
             builder.Services.AddHttpContextAccessor();
+
+
+
+        //    builder.Services.AddDataProtection()
+        //.PersistKeysToFileSystem(new DirectoryInfo(@"/root/.aspnet/DataProtection-Keys"))
+        //.ProtectKeysWithDpapi();
+
 
             builder.Services.AddSwaggerGen(opt =>
             {

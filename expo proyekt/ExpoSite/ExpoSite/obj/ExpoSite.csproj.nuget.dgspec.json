@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\ExpoSite\\ExpoSite.csproj": {}
+    "C:\\Users\\Rashid\\Desktop\\railwaytest\\expo proyekt\\ExpoSite\\ExpoSite\\ExpoSite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Business\\Expo.Business.csproj": {
+    "C:\\Users\\Rashid\\Desktop\\railwaytest\\expo proyekt\\ExpoSite\\Expo.Business\\Expo.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Business\\Expo.Business.csproj",
+        "projectUniqueName": "C:\\Users\\Rashid\\Desktop\\railwaytest\\expo proyekt\\ExpoSite\\Expo.Business\\Expo.Business.csproj",
         "projectName": "Expo.Business",
-        "projectPath": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Business\\Expo.Business.csproj",
+        "projectPath": "C:\\Users\\Rashid\\Desktop\\railwaytest\\expo proyekt\\ExpoSite\\Expo.Business\\Expo.Business.csproj",
         "packagesPath": "C:\\Users\\Rashid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Business\\obj\\",
+        "outputPath": "C:\\Users\\Rashid\\Desktop\\railwaytest\\expo proyekt\\ExpoSite\\Expo.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Data\\Expo.Data.csproj": {
-                "projectPath": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Data\\Expo.Data.csproj"
+              "C:\\Users\\Rashid\\Desktop\\railwaytest\\expo proyekt\\ExpoSite\\Expo.Data\\Expo.Data.csproj": {
+                "projectPath": "C:\\Users\\Rashid\\Desktop\\railwaytest\\expo proyekt\\ExpoSite\\Expo.Data\\Expo.Data.csproj"
               }
             }
           }
@@ -56,6 +56,10 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "Docker.DotNet": {
+              "target": "Package",
+              "version": "[3.125.15, )"
             }
           },
           "imports": [
@@ -78,14 +82,14 @@
         }
       }
     },
-    "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Core\\Expo.Core.csproj": {
+    "C:\\Users\\Rashid\\Desktop\\railwaytest\\expo proyekt\\ExpoSite\\Expo.Core\\Expo.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Core\\Expo.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Rashid\\Desktop\\railwaytest\\expo proyekt\\ExpoSite\\Expo.Core\\Expo.Core.csproj",
         "projectName": "Expo.Core",
-        "projectPath": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Core\\Expo.Core.csproj",
+        "projectPath": "C:\\Users\\Rashid\\Desktop\\railwaytest\\expo proyekt\\ExpoSite\\Expo.Core\\Expo.Core.csproj",
         "packagesPath": "C:\\Users\\Rashid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Core\\obj\\",
+        "outputPath": "C:\\Users\\Rashid\\Desktop\\railwaytest\\expo proyekt\\ExpoSite\\Expo.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -126,6 +130,10 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "Docker.DotNet": {
+              "target": "Package",
+              "version": "[3.125.15, )"
             },
             "FluentValidation.AspNetCore": {
               "target": "Package",
@@ -168,14 +176,14 @@
         }
       }
     },
-    "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Data\\Expo.Data.csproj": {
+    "C:\\Users\\Rashid\\Desktop\\railwaytest\\expo proyekt\\ExpoSite\\Expo.Data\\Expo.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Data\\Expo.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Rashid\\Desktop\\railwaytest\\expo proyekt\\ExpoSite\\Expo.Data\\Expo.Data.csproj",
         "projectName": "Expo.Data",
-        "projectPath": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Data\\Expo.Data.csproj",
+        "projectPath": "C:\\Users\\Rashid\\Desktop\\railwaytest\\expo proyekt\\ExpoSite\\Expo.Data\\Expo.Data.csproj",
         "packagesPath": "C:\\Users\\Rashid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Data\\obj\\",
+        "outputPath": "C:\\Users\\Rashid\\Desktop\\railwaytest\\expo proyekt\\ExpoSite\\Expo.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -196,8 +204,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Core\\Expo.Core.csproj": {
-                "projectPath": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Core\\Expo.Core.csproj"
+              "C:\\Users\\Rashid\\Desktop\\railwaytest\\expo proyekt\\ExpoSite\\Expo.Core\\Expo.Core.csproj": {
+                "projectPath": "C:\\Users\\Rashid\\Desktop\\railwaytest\\expo proyekt\\ExpoSite\\Expo.Core\\Expo.Core.csproj"
               }
             }
           }
@@ -217,6 +225,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Docker.DotNet": {
+              "target": "Package",
+              "version": "[3.125.15, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.11, )"
@@ -256,14 +268,14 @@
         }
       }
     },
-    "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\ExpoSite\\ExpoSite.csproj": {
+    "C:\\Users\\Rashid\\Desktop\\railwaytest\\expo proyekt\\ExpoSite\\ExpoSite\\ExpoSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\ExpoSite\\ExpoSite.csproj",
+        "projectUniqueName": "C:\\Users\\Rashid\\Desktop\\railwaytest\\expo proyekt\\ExpoSite\\ExpoSite\\ExpoSite.csproj",
         "projectName": "ExpoSite",
-        "projectPath": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\ExpoSite\\ExpoSite.csproj",
+        "projectPath": "C:\\Users\\Rashid\\Desktop\\railwaytest\\expo proyekt\\ExpoSite\\ExpoSite\\ExpoSite.csproj",
         "packagesPath": "C:\\Users\\Rashid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\ExpoSite\\obj\\",
+        "outputPath": "C:\\Users\\Rashid\\Desktop\\railwaytest\\expo proyekt\\ExpoSite\\ExpoSite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -284,8 +296,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Business\\Expo.Business.csproj": {
-                "projectPath": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Business\\Expo.Business.csproj"
+              "C:\\Users\\Rashid\\Desktop\\railwaytest\\expo proyekt\\ExpoSite\\Expo.Business\\Expo.Business.csproj": {
+                "projectPath": "C:\\Users\\Rashid\\Desktop\\railwaytest\\expo proyekt\\ExpoSite\\Expo.Business\\Expo.Business.csproj"
               }
             }
           }
@@ -305,6 +317,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Docker.DotNet": {
+              "target": "Package",
+              "version": "[3.125.15, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
