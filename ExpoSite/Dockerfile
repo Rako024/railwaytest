@@ -10,10 +10,10 @@ WORKDIR /src
 
 # Copy the solution file and project files
 COPY ["ExpoSite.sln", "./"]
-COPY ["ExpoSite/ExpoSite.csproj", "ExpoSite/"]
 COPY ["Expo.Business/Expo.Business.csproj", "Expo.Business/"]
 COPY ["Expo.Data/Expo.Data.csproj", "Expo.Data/"]
 COPY ["Expo.Core/Expo.Core.csproj", "Expo.Core/"]
+COPY ["ExpoSite/ExpoSite.csproj", "ExpoSite/"]
 
 # Restore dependencies
 RUN dotnet restore "ExpoSite.sln"
