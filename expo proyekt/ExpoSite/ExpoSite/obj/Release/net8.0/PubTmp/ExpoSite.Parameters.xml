@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="exposite-001-site1" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo\ proyekt\\ExpoSite\\ExpoSite\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="Expo.Data.DAL.ExpoContext" description="" value="Data Source=SQL6033.site4now.net;Initial Catalog=db_ab0617_exposite;User Id=db_ab0617_exposite_admin;Password=!2627251Rr" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo\ proyekt\\ExpoSite\\ExpoSite\\obj\\Release\\net8\.0\\PubTmp\\EFSQLScripts\\Expo\.Data\.DAL\.ExpoContext\.sql$" />
+  </parameter>
+</parameters>

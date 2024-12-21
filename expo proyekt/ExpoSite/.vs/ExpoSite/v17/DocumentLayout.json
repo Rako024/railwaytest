@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30F918FA-70D6-4553-84A8-229D5EE6BAD6}|ExpoSite\\ExpoSite.csproj|c:\\users\\rashid\\desktop\\expo-site\\expo proyekt\\exposite\\exposite\\controllers\\admincontrollers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F918FA-70D6-4553-84A8-229D5EE6BAD6}|ExpoSite\\ExpoSite.csproj|solutionrelative:exposite\\controllers\\admincontrollers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F97624-C5ED-4F89-848E-39532BFE82A5}|Expo.Business\\Expo.Business.csproj|c:\\users\\rashid\\desktop\\expo-site\\expo proyekt\\exposite\\expo.business\\service\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F97624-C5ED-4F89-848E-39532BFE82A5}|Expo.Business\\Expo.Business.csproj|solutionrelative:expo.business\\service\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F97624-C5ED-4F89-848E-39532BFE82A5}|Expo.Business\\Expo.Business.csproj|c:\\users\\rashid\\desktop\\expo-site\\expo proyekt\\exposite\\expo.business\\service\\concrete\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F97624-C5ED-4F89-848E-39532BFE82A5}|Expo.Business\\Expo.Business.csproj|solutionrelative:expo.business\\service\\concrete\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F97624-C5ED-4F89-848E-39532BFE82A5}|Expo.Business\\Expo.Business.csproj|c:\\users\\rashid\\desktop\\expo-site\\expo proyekt\\exposite\\expo.business\\profilies\\usermapprofilies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F97624-C5ED-4F89-848E-39532BFE82A5}|Expo.Business\\Expo.Business.csproj|solutionrelative:expo.business\\profilies\\usermapprofilies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F97624-C5ED-4F89-848E-39532BFE82A5}|Expo.Business\\Expo.Business.csproj|c:\\users\\rashid\\desktop\\expo-site\\expo proyekt\\exposite\\expo.business\\dtos\\userdtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F97624-C5ED-4F89-848E-39532BFE82A5}|Expo.Business\\Expo.Business.csproj|solutionrelative:expo.business\\dtos\\userdtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{676BBA9B-316A-4E86-BF61-D986FD49BF07}|Expo.Core\\Expo.Core.csproj|c:\\users\\rashid\\desktop\\expo-site\\expo proyekt\\exposite\\expo.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{676BBA9B-316A-4E86-BF61-D986FD49BF07}|Expo.Core\\Expo.Core.csproj|solutionrelative:expo.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Business\\Service\\Abstract\\IUserService.cs",
+              "RelativeDocumentMoniker": "Expo.Business\\Service\\Abstract\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Business\\Service\\Abstract\\IUserService.cs",
+              "RelativeToolTip": "Expo.Business\\Service\\Abstract\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T18:06:47.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminUserController.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\ExpoSite\\Controllers\\AdminControllers\\AdminUserController.cs",
+              "RelativeDocumentMoniker": "ExpoSite\\Controllers\\AdminControllers\\AdminUserController.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\ExpoSite\\Controllers\\AdminControllers\\AdminUserController.cs",
+              "RelativeToolTip": "ExpoSite\\Controllers\\AdminControllers\\AdminUserController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T18:05:51.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Business\\Service\\Concrete\\UserService.cs",
+              "RelativeDocumentMoniker": "Expo.Business\\Service\\Concrete\\UserService.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Business\\Service\\Concrete\\UserService.cs",
+              "RelativeToolTip": "Expo.Business\\Service\\Concrete\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T18:05:13.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserMapProfilies.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Business\\Profilies\\UserMapProfilies.cs",
+              "RelativeDocumentMoniker": "Expo.Business\\Profilies\\UserMapProfilies.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Business\\Profilies\\UserMapProfilies.cs",
+              "RelativeToolTip": "Expo.Business\\Profilies\\UserMapProfilies.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCUAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T18:00:41.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Business\\DTOs\\UserDtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "Expo.Business\\DTOs\\UserDtos\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Business\\DTOs\\UserDtos\\UserDto.cs",
+              "RelativeToolTip": "Expo.Business\\DTOs\\UserDtos\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:56:09.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Core\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Expo.Core\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Rashid\\Desktop\\Expo-Site\\expo proyekt\\ExpoSite\\Expo.Core\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Expo.Core\\Entities\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:56:38.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

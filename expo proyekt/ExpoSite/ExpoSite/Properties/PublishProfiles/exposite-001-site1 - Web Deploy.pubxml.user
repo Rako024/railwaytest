@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAtJH6Of4igkeq5WXTfqhvNgAAAAACAAAAAAAQZgAAAAEAACAAAAANUe+kXWhJ63j6z7PHoIj2mp7YvWI3IUxy0ZO/QyRe+gAAAAAOgAAAAAIAACAAAABiU0UHI/Tw0t6ourzcJjck0VlaaVFFdFl2whWhpdD6YSAAAADDJvtbgtQoJWFyy9gfc60QVQGec9P5E+WkcHf7F64rakAAAABxRTFABQqFkwUoaHTSQFXMdpDKTnDTbH00GaUa+DyuhF3cP1wFCsyanFEPQunFs9n5SgUx4GQHdASQAb9zCHI1</EncryptedPassword>
+    <History>True|2024-12-20T18:11:31.7201398Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="Server">
+      <Value>Data Source=SQL6033.site4now.net%3bInitial Catalog=db_ab0617_exposite%3bUser Id=db_ab0617_exposite_admin%3bPassword=!2627251Rr</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Expo.Data.DAL.ExpoContext">
+      <Value>Data Source=SQL6033.site4now.net%3bInitial Catalog=db_ab0617_exposite%3bUser Id=db_ab0617_exposite_admin%3bPassword=!2627251Rr</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
